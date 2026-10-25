@@ -15,7 +15,7 @@
     "archive": "node archive.js"
   },
   "dependencies": {
-    "@docsearch/react": "4.7.0",
+    "@docsearch/react": "5.1.2",
     "@docusaurus/core": "3.10.2",
     "@docusaurus/plugin-client-redirects": "3.10.2",
     "@docusaurus/plugin-content-docs": "3.10.2",
@@ -23,19 +23,19 @@
     "@docusaurus/remark-plugin-npm2yarn": "3.10.2",
     "@docusaurus/theme-common": "3.10.2",
     "@mdx-js/react": "3.1.1",
-    "algoliasearch-helper": "3.29.2",
+    "algoliasearch-helper": "3.30.0",
     "clsx": "2.1.1",
-    "docusaurus-plugin-copy-page-button": "0.8.4",
+    "docusaurus-plugin-copy-page-button": "0.8.5",
     "prism-react-renderer": "2.4.1",
-    "react": "19.2.8",
-    "react-cookie-consent": "10.0.1",
-    "react-dom": "19.2.8",
+    "react": "19.3.1",
+    "react-cookie-consent": "10.0.2",
+    "react-dom": "19.3.1",
     "semver": "7.8.5"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.2",
     "@docusaurus/types": "3.10.2",
-    "@swc/core": "1.15.47",
+    "@swc/core": "1.16.18",
     "swc-loader": "0.2.7"
   },
   "browserslist": {
